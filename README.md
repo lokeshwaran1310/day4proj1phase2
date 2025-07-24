@@ -1,3 +1,5 @@
+# User Registration System
+
 # Description
 A simple Java console application that registers users by name and age. If a user is under 18, a custom exception is thrown and the error is logged to a file (`error.log`) with a timestamp.
 
